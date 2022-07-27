@@ -10,3 +10,7 @@ Oats
 Peanut Butter
 Curd
 Paneer
+Added in Production branch
+Soya
+Pulses
+Juices
